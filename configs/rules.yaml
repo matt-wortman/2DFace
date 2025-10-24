@@ -1,0 +1,31 @@
+# Thresholds for cosmetic findings (values normalized by interpupillary distance unless noted)
+facial_symmetry:
+  warn_below: 85.0
+  flag_below: 70.0
+nasolabial_fold_ratio:
+  warn_above: 0.25
+  flag_above: 0.35
+nasolabial_wrinkle_length_ratio:
+  warn_above: 0.05
+  flag_above: 0.08
+nasolabial_wrinkle_intensity:
+  warn_above: 0.45
+  flag_above: 0.6
+chin_midline_deviation:
+  warn_above: 0.15
+  flag_above: 0.30
+jaw_width_ratio:
+  warn_above: 1.80
+  flag_above: 2.20
+crows_feet_length_ratio:
+  warn_above: 0.04
+  flag_above: 0.07
+crows_feet_intensity:
+  warn_above: 0.45
+  flag_above: 0.6
+facial_third_lower:
+  warn_above: 1.20
+  flag_above: 1.40
+upper_lip_thickness_ratio:
+  warn_below: 0.12
+  flag_below: 0.08

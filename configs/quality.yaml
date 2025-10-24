@@ -1,0 +1,5 @@
+# Quality gate thresholds for image intake
+blur_min: 120.0        # variance of Laplacian; higher is sharper
+exposure_min: 60.0     # mean grayscale value (0-255)
+exposure_max: 190.0    # mean grayscale value (0-255)
+roll_max_deg: 10.0     # maximum absolute roll angle derived from eye line

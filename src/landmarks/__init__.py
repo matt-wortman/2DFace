@@ -1,0 +1,1 @@
+"""Landmark extraction helpers."""

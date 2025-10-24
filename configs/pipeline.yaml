@@ -1,0 +1,6 @@
+model_root: models/insightface
+quality_config: configs/quality.yaml
+rules_config: configs/rules.yaml
+report_template: templates/report.html.j2
+output_json: true
+output_overlays: true

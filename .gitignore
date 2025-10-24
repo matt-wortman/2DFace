@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# Environments
+.env
+.venv
+
+# Local data and outputs
+/data/
+/outputs/
+/5142466/
+*.zip
+*.tar.gz
+
+# Model caches
+/models/
+
+# Misc
+.DS_Store
+facer/
