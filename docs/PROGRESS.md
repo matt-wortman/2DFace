@@ -2,6 +2,8 @@
 
 _Last updated: 2025-10-23_
 
+> Context reminder: wrinkle detection improvements are one part of the broader goal—identify facial features that could benefit from cosmetic surgical correction (symmetry, proportions, contours, texture). Prioritize wrinkle work without letting it eclipse the holistic measurement roadmap.
+
 ## Completed Stages
 
 - **Stage 0 – Environment**: Verified RTX 4090 drivers/CUDA, created `faceapp-local` conda env, captured config in `docs/setup/local_env.md`, seeded sanity dataset.
